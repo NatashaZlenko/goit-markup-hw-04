@@ -238,10 +238,13 @@ footer {
   border-radius: 4px;
 
   margin-bottom: 30px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .feature-icon {
-  margin: 25px 100px;
 }
 .info-about-team {
   display: flex;
@@ -349,6 +352,7 @@ footer {
   list-style: none;
 
   padding: 0;
+  margin: 0;
 }
 
 .client-logo {
